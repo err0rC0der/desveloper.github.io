@@ -1,0 +1,86 @@
+
+body {
+    direction: rtl;
+    font-family: "Droid Arabic Kufi","Aldrich",Tahoma,Arial; 
+    font-size: 14px;
+    color: #444;
+    line-height: 1.5em;
+}
+* {
+    direction: ltr;
+}
+
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #444;
+}
+
+.navbar-default {
+    background-color: #444;
+    border-color: #444;
+}
+
+.navbar {
+    border-radius: 0.1px;
+}
+
+.jao {
+    margin: -10px;
+}
+a {
+    outline: none !important;
+}
+li a {
+    color: #fff !important;
+}
+li i {
+    font-size: 18px
+}
+
+
+.navbar-default .navbar-toggle {
+    border-color: rgba(255, 255, 255, 0);
+}
+
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+    background-color: rgba(255, 255, 255, 0);
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #FFF;
+}
+
+
+@media screen and (min-width: 750px) {
+    .container {
+        width: 960px;
+    }
+}
+
+/* ============ */
+
+.aa5a {
+    font-size: 30px;
+    line-height: 36px;
+    font-weight: 300;
+    padding: 0;
+    margin-bottom: 24px;
+}
+
+.form-control {
+    height: 45px;
+    width: 372px;
+    padding: 10px;
+    font-size: 18px;
+    transition: background .2s linear;
+    display: inline-block;
+    margin: 0;
+    outline: 0;
+    background-color: #fff;
+    border: 1px solid #e1e8ed;
+    border-radius: 3px;
+}
+
+.dd25 {
+    width: 392px;
+}
